@@ -1,5 +1,11 @@
 package com.groupFour.Interfaces;
 
-public interface Game {
-    public void takeTurn();
+public abstract class Game {
+    public abstract void takeTurn();
+
+    public void exit(){
+
+    }
+
+    public abstract void setup();
 }

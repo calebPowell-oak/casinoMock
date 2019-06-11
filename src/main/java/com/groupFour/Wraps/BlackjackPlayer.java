@@ -6,9 +6,20 @@ import com.groupFour.Player;
 public class BlackjackPlayer implements GamblingPlayer {
 
     private Player player;
-    private Double balance;
 
     public Double getBalance() {
         return null;
+    }
+
+    public void setBalance(Double amount) {
+
+    }
+
+    public void addToBalance(Double amount) {
+
+    }
+
+    public void subtractFromBalance(Double amount) {
+
     }
 }

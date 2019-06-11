@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02a798d1-63f6-4551-9d2d-834547247aae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGameInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Casino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Casino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Console.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Blackjack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Blackjack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Craps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Craps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/GoFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/GoFish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/GreaterThanThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/GreaterThanThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Spanish21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Spanish21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Hand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Mediator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/BlackjackPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/BlackjackPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/CrapsPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/CrapsPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/Spanish21Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/Spanish21Player.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/Blackjack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Mediator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Casino.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/com.groupFour">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.groupFour</OriginalElement>
+              <nodes>
+                <node x="278.25" y="363.0">com.groupFour.Console</node>
+                <node x="788.0" y="22.5">com.groupFour.Interfaces</node>
+                <node x="721.0" y="199.0">com.groupFour.Wraps</node>
+                <node x="398.24999999999994" y="0.0">com.groupFour.Player</node>
+                <node x="0.0" y="165.5">com.groupFour.Hand</node>
+                <node x="393.25" y="363.0">com.groupFour.Games</node>
+                <node x="297.5" y="439.0">com.groupFour.Mediator</node>
+                <node x="307.5" y="647.0">com.groupFour.Casino</node>
+                <node x="224.0" y="153.5">com.groupFour.Dice</node>
+                <node x="455.0" y="121.0">com.groupFour.Deck</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.groupFour.Games" target="com.groupFour.Interfaces">
+                  <point x="50.416666666666686" y="-13.0" />
+                  <point x="504.16666666666663" y="343.0" />
+                  <point x="886.375" y="343.0" />
+                  <point x="886.375" y="96.0" />
+                  <point x="905.0" y="96.0" />
+                  <point x="39.0" y="13.0" />
+                </edge>
+                <edge source="com.groupFour.Games" target="com.groupFour.Dice">
+                  <point x="-10.083333333333314" y="-13.0" />
+                  <point x="443.66666666666663" y="323.0" />
+                  <point x="329.5" y="323.0" />
+                  <point x="0.0" y="58.5" />
+                </edge>
+                <edge source="com.groupFour.Games" target="com.groupFour.Wraps">
+                  <point x="30.25" y="-13.0" />
+                  <point x="484.0" y="333.0" />
+                  <point x="781.5" y="333.0" />
+                  <point x="0.0" y="13.0" />
+                </edge>
+                <edge source="com.groupFour.Casino" target="com.groupFour.Mediator">
+                  <point x="-39.5" y="-24.0" />
+                  <point x="347.0" y="622.0" />
+                  <point x="342.0" y="622.0" />
+                  <point x="-44.5" y="79.0" />
+                </edge>
+                <edge source="com.groupFour.Wraps" target="com.groupFour.Interfaces">
+                  <point x="30.25" y="-13.0" />
+                  <point x="811.75" y="96.0" />
+                  <point x="827.0" y="96.0" />
+                  <point x="-39.0" y="13.0" />
+                </edge>
+                <edge source="com.groupFour.Mediator" target="com.groupFour.Console">
+                  <point x="-66.75" y="-79.0" />
+                  <point x="319.75" y="414.0" />
+                  <point x="302.0" y="414.0" />
+                  <point x="-23.75" y="13.0" />
+                </edge>
+                <edge source="com.groupFour.Mediator" target="com.groupFour.Games">
+                  <point x="22.25" y="-79.0" />
+                  <point x="408.75" y="414.0" />
+                  <point x="423.5" y="414.0" />
+                  <point x="-30.25" y="13.0" />
+                </edge>
+                <edge source="com.groupFour.Games" target="com.groupFour.Deck">
+                  <point x="10.083333333333314" y="-13.0" />
+                  <point x="463.83333333333326" y="323.0" />
+                  <point x="578.0" y="323.0" />
+                  <point x="0.0" y="91.0" />
+                </edge>
+                <edge source="com.groupFour.Wraps" target="com.groupFour.Player">
+                  <point x="-30.25" y="-13.0" />
+                  <point x="751.25" y="96.0" />
+                  <point x="494.24999999999994" y="96.0" />
+                  <point x="32.0" y="35.5" />
+                </edge>
+                <edge source="com.groupFour.Games" target="com.groupFour.Player">
+                  <point x="-30.25" y="-13.0" />
+                  <point x="423.5" y="333.0" />
+                  <point x="213.5" y="333.0" />
+                  <point x="213.5" y="96.0" />
+                  <point x="430.24999999999994" y="96.0" />
+                  <point x="-32.0" y="35.5" />
+                </edge>
+                <edge source="com.groupFour.Games" target="com.groupFour.Hand">
+                  <point x="-50.416666666666686" y="-13.0" />
+                  <point x="403.33333333333326" y="343.0" />
+                  <point x="101.5" y="343.0" />
+                  <point x="0.0" y="46.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.8867132867132868" x="472.0" y="347.5" />
+              <SelectedNodes>
+                <node>com.groupFour.Wraps</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Properties</Category>
+                <Category>Methods</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/Spanish21.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/Craps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/GreaterThanThree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/GoFish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGameInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Wraps/Spanish21Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Deck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Hand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/GamblingPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Wraps/BlackjackPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Games/GreaterThanThree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Games/GoFish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/GamblingGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Games/Blackjack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Games/Craps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Games/Spanish21.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Casino.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Console.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Deck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Hand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Dice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGameInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/BlackjackPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/CrapsPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/Spanish21Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Blackjack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Spanish21.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Craps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Games/GoFish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Games/GreaterThanThree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Mediator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Casino.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-22" />
+    <option name="y" value="23" />
+    <option name="width" value="1323" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="casinoUML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="casinoUML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="casinoUML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="casinoUML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="casinoUML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="groupFour" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="casinoUML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="groupFour" type="462c0819:PsiDirectoryNode" />
+              <item name="Games" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="casinoUML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="groupFour" type="462c0819:PsiDirectoryNode" />
+              <item name="Interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="casinoUML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="groupFour" type="462c0819:PsiDirectoryNode" />
+              <item name="Wraps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="casinoUML" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02a798d1-63f6-4551-9d2d-834547247aae" name="Default Changelist" comment="" />
+      <created>1560207031320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560207031320</updated>
+      <workItem from="1560207034698" duration="3402000" />
+      <workItem from="1560210899482" duration="282000" />
+      <workItem from="1560271045483" duration="821000" />
+      <workItem from="1560276287846" duration="5577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10082000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2714055" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/com.groupFour.Games">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.groupFour.Games</OriginalElement>
+          <nodes>
+            <node x="" y="">com.groupFour.Games.Spanish21</node>
+            <node x="" y="">com.groupFour.Games.GreaterThanThree</node>
+            <node x="" y="">com.groupFour.Games.Craps</node>
+            <node x="" y="">com.groupFour.Games.GoFish</node>
+            <node x="" y="">com.groupFour.Games.Blackjack</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="121.0" y="120.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/calebpowell/Dev/casinoUML/src/main/java/com/groupFour/Games;/Users/calebpowell/Dev/casinoUML/src/main/java/com/groupFour/Interfaces;/Users/calebpowell/Dev/casinoUML/src/main/java/com/groupFour/Wraps;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/com/groupFour/Games;/Users/calebpowell/Dev/casinoUML/src/main/java/com/groupFour/Interfaces;/Users/calebpowell/Dev/casinoUML/src/main/java/com/groupFour/Wraps;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2690167319961442" x="253.0" y="388.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">resources</node>
+            <node x="" y="">toolbarButtonGraphics</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">apple</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8404113223723204" x="310.0" y="357.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/calebpowell/Dev/casinoUML/src/main/java/com/groupFour/Interfaces;/Users/calebpowell/Dev/casinoUML/src/main/java/com/groupFour/Wraps;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces;/Users/calebpowell/Dev/casinoUML/src/main/java/com/groupFour/Wraps;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.20000000000000015" x="458.0" y="317.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Overview</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Deck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Hand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/BlackjackPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/CrapsPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/Spanish21Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGameInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/GoFish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/Spanish21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/Craps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/GreaterThanThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/Blackjack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Mediator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Casino.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.groupFour">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.groupFour</OriginalElement>
+          <nodes>
+            <node x="278.25" y="363.0">com.groupFour.Console</node>
+            <node x="788.0" y="22.5">com.groupFour.Interfaces</node>
+            <node x="721.0" y="199.0">com.groupFour.Wraps</node>
+            <node x="398.24999999999994" y="0.0">com.groupFour.Player</node>
+            <node x="0.0" y="165.5">com.groupFour.Hand</node>
+            <node x="393.25" y="363.0">com.groupFour.Games</node>
+            <node x="297.5" y="439.0">com.groupFour.Mediator</node>
+            <node x="307.5" y="647.0">com.groupFour.Casino</node>
+            <node x="224.0" y="153.5">com.groupFour.Dice</node>
+            <node x="455.0" y="121.0">com.groupFour.Deck</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.groupFour.Games" target="com.groupFour.Interfaces">
+              <point x="50.416666666666686" y="-13.0" />
+              <point x="504.16666666666663" y="343.0" />
+              <point x="886.375" y="343.0" />
+              <point x="886.375" y="96.0" />
+              <point x="905.0" y="96.0" />
+              <point x="39.0" y="13.0" />
+            </edge>
+            <edge source="com.groupFour.Games" target="com.groupFour.Dice">
+              <point x="-10.083333333333314" y="-13.0" />
+              <point x="443.66666666666663" y="323.0" />
+              <point x="329.5" y="323.0" />
+              <point x="0.0" y="58.5" />
+            </edge>
+            <edge source="com.groupFour.Games" target="com.groupFour.Wraps">
+              <point x="30.25" y="-13.0" />
+              <point x="484.0" y="333.0" />
+              <point x="781.5" y="333.0" />
+              <point x="0.0" y="13.0" />
+            </edge>
+            <edge source="com.groupFour.Casino" target="com.groupFour.Mediator">
+              <point x="-39.5" y="-24.0" />
+              <point x="347.0" y="622.0" />
+              <point x="342.0" y="622.0" />
+              <point x="-44.5" y="79.0" />
+            </edge>
+            <edge source="com.groupFour.Wraps" target="com.groupFour.Interfaces">
+              <point x="30.25" y="-13.0" />
+              <point x="811.75" y="96.0" />
+              <point x="827.0" y="96.0" />
+              <point x="-39.0" y="13.0" />
+            </edge>
+            <edge source="com.groupFour.Mediator" target="com.groupFour.Console">
+              <point x="-66.75" y="-79.0" />
+              <point x="319.75" y="414.0" />
+              <point x="302.0" y="414.0" />
+              <point x="-23.75" y="13.0" />
+            </edge>
+            <edge source="com.groupFour.Mediator" target="com.groupFour.Games">
+              <point x="22.25" y="-79.0" />
+              <point x="408.75" y="414.0" />
+              <point x="423.5" y="414.0" />
+              <point x="-30.25" y="13.0" />
+            </edge>
+            <edge source="com.groupFour.Games" target="com.groupFour.Deck">
+              <point x="10.083333333333314" y="-13.0" />
+              <point x="463.83333333333326" y="323.0" />
+              <point x="578.0" y="323.0" />
+              <point x="0.0" y="91.0" />
+            </edge>
+            <edge source="com.groupFour.Wraps" target="com.groupFour.Player">
+              <point x="-30.25" y="-13.0" />
+              <point x="751.25" y="96.0" />
+              <point x="494.24999999999994" y="96.0" />
+              <point x="32.0" y="35.5" />
+            </edge>
+            <edge source="com.groupFour.Games" target="com.groupFour.Player">
+              <point x="-30.25" y="-13.0" />
+              <point x="423.5" y="333.0" />
+              <point x="213.5" y="333.0" />
+              <point x="213.5" y="96.0" />
+              <point x="430.24999999999994" y="96.0" />
+              <point x="-32.0" y="35.5" />
+            </edge>
+            <edge source="com.groupFour.Games" target="com.groupFour.Hand">
+              <point x="-50.416666666666686" y="-13.0" />
+              <point x="403.33333333333326" y="343.0" />
+              <point x="101.5" y="343.0" />
+              <point x="0.0" y="46.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8867132867132868" x="472.0" y="347.5" />
+          <SelectedNodes>
+            <node>com.groupFour.Wraps</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

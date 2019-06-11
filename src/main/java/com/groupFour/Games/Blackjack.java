@@ -1,25 +1,18 @@
 package com.groupFour.Games;
 
+import com.groupFour.Deck;
+import com.groupFour.Hand;
 import com.groupFour.Interfaces.GamblingGame;
 import com.groupFour.Wraps.BlackjackPlayer;
 
-public class Blackjack implements GamblingGame {
+public class Blackjack extends GamblingGame {
 
     private Hand hand;
+    private Hand dealerHand;
     private Deck deck;
     private BlackjackPlayer player;
-    private Double currentBet;
-    private Double minBet, maxBet;
 
-    public void hit(){
-
-    }
-
-    public void stay(){
-
-    }
-
-    public void placeBet() {
+    public void placeBet(Double amount) {
 
     }
 
@@ -32,6 +25,10 @@ public class Blackjack implements GamblingGame {
     }
 
     public void takeTurn() {
+
+    }
+
+    public void setup() {
 
     }
 }

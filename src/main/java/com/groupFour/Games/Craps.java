@@ -1,18 +1,15 @@
 package com.groupFour.Games;
 
+import com.groupFour.Dice;
 import com.groupFour.Interfaces.GamblingGame;
 import com.groupFour.Wraps.CrapsPlayer;
 
-public class Craps implements GamblingGame {
+public class Craps extends GamblingGame {
 
     private Dice dice;
     private CrapsPlayer player;
-    Double currentBet;
-    Double minBet, maxBet;
 
-
-
-    public void placeBet() {
+    public void placeBet(Double amount) {
 
     }
 
@@ -25,6 +22,10 @@ public class Craps implements GamblingGame {
     }
 
     public void takeTurn() {
+
+    }
+
+    public void setup() {
 
     }
 }
