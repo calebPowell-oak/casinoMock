@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02a798d1-63f6-4551-9d2d-834547247aae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/GoFishPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Blackjack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Blackjack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/GoFish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/GoFish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/GreaterThanThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/GreaterThanThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Spanish21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Games/Spanish21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Hand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Hand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Mediator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Mediator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/BlackjackPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/BlackjackPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/CrapsPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/CrapsPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/Spanish21Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Wraps/Spanish21Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,35 +17,321 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Deck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="450">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/Blackjack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/Craps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/com.groupFour">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.groupFour</OriginalElement>
+              <nodes>
+                <node x="62.25" y="1333.5">com.groupFour.Console</node>
+                <node x="1070.4322580645162" y="923.0">com.groupFour.Wraps.CrapsPlayer</node>
+                <node x="704.6854838709679" y="615.0">com.groupFour.Player</node>
+                <node x="165.54247311828" y="99.0">com.groupFour.Suit</node>
+                <node x="270.54247311828" y="0.0">com.groupFour.Rank</node>
+                <node x="254.5" y="626.0">com.groupFour.Hand</node>
+                <node x="290.60000000000014" y="967.5">com.groupFour.Wraps.GoFishPlayer</node>
+                <node x="1485.8896505376347" y="615.0">com.groupFour.Interfaces.Game</node>
+                <node x="1680.8896505376347" y="626.5">com.groupFour.Interfaces.GamblingGameInterface</node>
+                <node x="655.2874999999999" y="1245.0">com.groupFour.Games.Spanish21</node>
+                <node x="510.43225806451613" y="923.0">com.groupFour.Wraps.BlackjackPlayer</node>
+                <node x="549.4124999999999" y="1538.0">com.groupFour.Mediator</node>
+                <node x="163.79247311828" y="362.0">com.groupFour.Card</node>
+                <node x="566.9124999999999" y="1659.0">com.groupFour.Casino</node>
+                <node x="790.4322580645162" y="923.0">com.groupFour.Wraps.Spanish21Player</node>
+                <node x="1819.8758064516135" y="1245.0">com.groupFour.Games.GreaterThanThree</node>
+                <node x="1424.856989247312" y="1256.0">com.groupFour.Games.Craps</node>
+                <node x="1674.3758064516132" y="945.0">com.groupFour.Dice</node>
+                <node x="177.25" y="1278.0">com.groupFour.Games.GoFish</node>
+                <node x="1437.10497311828" y="890.0">com.groupFour.Interfaces.GamblingGame</node>
+                <node x="901.6854838709679" y="615.5">com.groupFour.Interfaces.GamblingPlayer</node>
+                <node x="0.0" y="912.0">com.groupFour.Deck</node>
+                <node x="415.84999999999997" y="1245.0">com.groupFour.Games.Blackjack</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.groupFour.Card" target="com.groupFour.Suit">
+                  <point x="-22.875" y="-101.5" />
+                  <point x="232.41747311828" y="337.0" />
+                  <point x="229.29247311828" y="337.0" />
+                  <point x="21.25" y="57.0" />
+                </edge>
+                <edge source="com.groupFour.Games.GreaterThanThree" target="com.groupFour.Player">
+                  <point x="0.0" y="-101.5" />
+                  <point x="1910.8758064516135" y="1225.0" />
+                  <point x="1942.8758064516135" y="1225.0" />
+                  <point x="1942.8758064516135" y="760.0" />
+                  <point x="863.9854838709679" y="760.0" />
+                  <point x="70.79999999999995" y="57.5" />
+                </edge>
+                <edge source="com.groupFour.Mediator" target="com.groupFour.Console">
+                  <point x="-72.375" y="-35.5" />
+                  <point x="573.5374999999999" y="1508.0" />
+                  <point x="133.5" y="1508.0" />
+                  <point x="23.75" y="13.0" />
+                </edge>
+                <edge source="com.groupFour.Deck" target="com.groupFour.Card">
+                  <point x="-54.25" y="-90.5" />
+                  <point x="54.25" y="870.0" />
+                  <point x="103.0" y="870.0" />
+                  <point x="103.0" y="585.0" />
+                  <point x="186.66747311828" y="585.0" />
+                  <point x="-68.625" y="101.5" />
+                </edge>
+                <edge source="com.groupFour.Interfaces.GamblingGame" target="com.groupFour.Interfaces.Game">
+                  <point x="-54.0" y="-112.5" />
+                  <point x="1491.10497311828" y="870.0" />
+                  <point x="1573.3896505376347" y="870.0" />
+                  <point x="0.0" y="57.5" />
+                </edge>
+                <edge source="com.groupFour.Interfaces.GamblingGame" target="com.groupFour.Interfaces.GamblingGameInterface">
+                  <point x="54.0" y="-112.5" />
+                  <point x="1599.10497311828" y="870.0" />
+                  <point x="1777.3896505376347" y="870.0" />
+                  <point x="0.0" y="46.0" />
+                </edge>
+                <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Deck">
+                  <point x="-68.25" y="-101.5" />
+                  <point x="438.59999999999997" y="1165.0" />
+                  <point x="108.5" y="1165.0" />
+                  <point x="-1.4210854715202004E-14" y="90.5" />
+                </edge>
+                <edge source="com.groupFour.Wraps.Spanish21Player" target="com.groupFour.Hand">
+                  <point x="-86.66666666666674" y="-79.5" />
+                  <point x="833.7655913978494" y="810.0" />
+                  <point x="403.0" y="810.0" />
+                  <point x="54.0" y="46.5" />
+                </edge>
+                <edge source="com.groupFour.Games.Craps" target="com.groupFour.Dice">
+                  <point x="60.66666666666674" y="-90.5" />
+                  <point x="1576.5236559139787" y="1225.0" />
+                  <point x="1738.8758064516132" y="1225.0" />
+                  <point x="-64.5" y="57.5" />
+                </edge>
+                <edge source="com.groupFour.Wraps.CrapsPlayer" target="com.groupFour.Player">
+                  <point x="0.0" y="-79.5" />
+                  <point x="1200.4322580645162" y="780.0" />
+                  <point x="828.585483870968" y="780.0" />
+                  <point x="35.40000000000009" y="57.5" />
+                </edge>
+                <edge source="com.groupFour.Mediator" target="com.groupFour.Games.GoFish">
+                  <point x="-40.20833333333326" y="-35.5" />
+                  <point x="605.7041666666667" y="1488.0" />
+                  <point x="309.25" y="1488.0" />
+                  <point x="44.0" y="68.5" />
+                </edge>
+                <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Hand">
+                  <point x="-22.75" y="-101.5" />
+                  <point x="484.09999999999997" y="1155.0" />
+                  <point x="431.09999999999997" y="1155.0" />
+                  <point x="431.09999999999997" y="840.0" />
+                  <point x="322.0" y="840.0" />
+                  <point x="-27.0" y="46.5" />
+                </edge>
+                <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Deck">
+                  <point x="-66.0" y="-68.5" />
+                  <point x="199.25" y="1225.0" />
+                  <point x="36.16666666666663" y="1225.0" />
+                  <point x="-72.33333333333333" y="90.5" />
+                </edge>
+                <edge source="com.groupFour.Wraps.BlackjackPlayer" target="com.groupFour.Interfaces.GamblingPlayer">
+                  <point x="86.66666666666663" y="-79.5" />
+                  <point x="727.0989247311827" y="870.0" />
+                  <point x="945.0188172043013" y="870.0" />
+                  <point x="-86.66666666666663" y="57.0" />
+                </edge>
+                <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Interfaces.GamblingGame">
+                  <point x="68.25" y="-101.5" />
+                  <point x="575.0999999999999" y="1195.0" />
+                  <point x="1473.10497311828" y="1195.0" />
+                  <point x="-72.0" y="112.5" />
+                </edge>
+                <edge source="com.groupFour.Games.Craps" target="com.groupFour.Wraps.CrapsPlayer">
+                  <point x="-60.66666666666674" y="-90.5" />
+                  <point x="1455.1903225806452" y="1175.0" />
+                  <point x="1200.4322580645162" y="1175.0" />
+                  <point x="0.0" y="79.5" />
+                </edge>
+                <edge source="com.groupFour.Wraps.Spanish21Player" target="com.groupFour.Interfaces.GamblingPlayer">
+                  <point x="86.66666666666663" y="-79.5" />
+                  <point x="1007.0989247311827" y="870.0" />
+                  <point x="1031.6854838709678" y="870.0" />
+                  <point x="0.0" y="57.0" />
+                </edge>
+                <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Interfaces.GamblingGame">
+                  <point x="70.125" y="-101.5" />
+                  <point x="818.9124999999999" y="1205.0" />
+                  <point x="1545.10497311828" y="1205.0" />
+                  <point x="0.0" y="112.5" />
+                </edge>
+                <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Wraps.BlackjackPlayer">
+                  <point x="22.75" y="-101.5" />
+                  <point x="529.5999999999999" y="1175.0" />
+                  <point x="640.4322580645162" y="1175.0" />
+                  <point x="0.0" y="79.5" />
+                </edge>
+                <edge source="com.groupFour.Games.GreaterThanThree" target="com.groupFour.Interfaces.Game">
+                  <point x="60.666666666666515" y="-101.5" />
+                  <point x="1971.54247311828" y="1225.0" />
+                  <point x="2082.8896505376347" y="1225.0" />
+                  <point x="2082.8896505376347" y="750.0" />
+                  <point x="1631.7229838709677" y="750.0" />
+                  <point x="58.33333333333326" y="57.5" />
+                </edge>
+                <edge source="com.groupFour.Mediator" target="com.groupFour.Games.Spanish21">
+                  <point x="24.125" y="-35.5" />
+                  <point x="670.0374999999999" y="1478.0" />
+                  <point x="795.5374999999999" y="1478.0" />
+                  <point x="46.75" y="101.5" />
+                </edge>
+                <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Wraps.GoFishPlayer">
+                  <point x="22.0" y="-68.5" />
+                  <point x="287.25" y="1175.0" />
+                  <point x="355.60000000000014" y="1175.0" />
+                  <point x="0.0" y="35.0" />
+                </edge>
+                <edge source="com.groupFour.Card" target="com.groupFour.Rank">
+                  <point x="68.625" y="-101.5" />
+                  <point x="17.75" y="156.0" />
+                </edge>
+                <edge source="com.groupFour.Casino" target="com.groupFour.Mediator">
+                  <point x="39.5" y="-24.0" />
+                  <point x="685.4124999999999" y="1634.0" />
+                  <point x="694.1624999999999" y="1634.0" />
+                  <point x="48.25" y="35.5" />
+                </edge>
+                <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Hand">
+                  <point x="-23.375" y="-101.5" />
+                  <point x="725.4124999999999" y="1135.0" />
+                  <point x="499.93225806451613" y="1135.0" />
+                  <point x="499.93225806451613" y="830.0" />
+                  <point x="349.0" y="830.0" />
+                  <point x="0.0" y="46.5" />
+                </edge>
+                <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Interfaces.Game">
+                  <point x="66.0" y="-68.5" />
+                  <point x="331.25" y="1185.0" />
+                  <point x="1340.9322580645162" y="1185.0" />
+                  <point x="1340.9322580645162" y="860.0" />
+                  <point x="1515.0563172043012" y="860.0" />
+                  <point x="-58.33333333333326" y="57.5" />
+                </edge>
+                <edge source="com.groupFour.Wraps.Spanish21Player" target="com.groupFour.Player">
+                  <point x="0.0" y="-79.5" />
+                  <point x="920.4322580645162" y="800.0" />
+                  <point x="793.1854838709679" y="800.0" />
+                  <point x="0.0" y="57.5" />
+                </edge>
+                <edge source="com.groupFour.Mediator" target="com.groupFour.Games.GreaterThanThree">
+                  <point x="72.375" y="-35.5" />
+                  <point x="718.2874999999999" y="1508.0" />
+                  <point x="1865.3758064516135" y="1508.0" />
+                  <point x="-45.5" y="101.5" />
+                </edge>
+                <edge source="com.groupFour.Games.GreaterThanThree" target="com.groupFour.Dice">
+                  <point x="-60.66666666666674" y="-101.5" />
+                  <point x="1850.2091397849467" y="1225.0" />
+                  <point x="1867.8758064516132" y="1225.0" />
+                  <point x="64.5" y="57.5" />
+                </edge>
+                <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Hand">
+                  <point x="-22.0" y="-68.5" />
+                  <point x="243.25" y="1225.0" />
+                  <point x="227.5" y="1225.0" />
+                  <point x="227.5" y="870.0" />
+                  <point x="268.0" y="870.0" />
+                  <point x="-81.0" y="46.5" />
+                </edge>
+                <edge source="com.groupFour.Mediator" target="com.groupFour.Games.Blackjack">
+                  <point x="-24.125" y="-35.5" />
+                  <point x="621.7874999999999" y="1478.0" />
+                  <point x="461.34999999999997" y="1478.0" />
+                  <point x="-45.5" y="101.5" />
+                </edge>
+                <edge source="com.groupFour.Wraps.CrapsPlayer" target="com.groupFour.Hand">
+                  <point x="-86.66666666666674" y="-79.5" />
+                  <point x="1113.7655913978494" y="790.0" />
+                  <point x="430.0" y="790.0" />
+                  <point x="81.0" y="46.5" />
+                </edge>
+                <edge source="com.groupFour.Mediator" target="com.groupFour.Games.Craps">
+                  <point x="40.20833333333326" y="-35.5" />
+                  <point x="686.1208333333332" y="1488.0" />
+                  <point x="1470.356989247312" y="1488.0" />
+                  <point x="-45.5" y="90.5" />
+                </edge>
+                <edge source="com.groupFour.Games.Craps" target="com.groupFour.Interfaces.GamblingGame">
+                  <point x="0.0" y="-90.5" />
+                  <point x="1515.856989247312" y="1215.0" />
+                  <point x="1617.10497311828" y="1215.0" />
+                  <point x="72.0" y="112.5" />
+                </edge>
+                <edge source="com.groupFour.Wraps.CrapsPlayer" target="com.groupFour.Interfaces.GamblingPlayer">
+                  <point x="86.66666666666674" y="-79.5" />
+                  <point x="1287.098924731183" y="770.0" />
+                  <point x="1118.3521505376345" y="770.0" />
+                  <point x="86.66666666666663" y="57.0" />
+                </edge>
+                <edge source="com.groupFour.Wraps.BlackjackPlayer" target="com.groupFour.Player">
+                  <point x="0.0" y="-79.5" />
+                  <point x="640.4322580645162" y="860.0" />
+                  <point x="757.7854838709678" y="860.0" />
+                  <point x="-35.40000000000009" y="57.5" />
+                </edge>
+                <edge source="com.groupFour.Wraps.BlackjackPlayer" target="com.groupFour.Hand">
+                  <point x="-86.66666666666669" y="-79.5" />
+                  <point x="553.7655913978494" y="820.0" />
+                  <point x="376.0" y="820.0" />
+                  <point x="27.0" y="46.5" />
+                </edge>
+                <edge source="com.groupFour.Wraps.GoFishPlayer" target="com.groupFour.Player">
+                  <point x="32.5" y="-35.0" />
+                  <point x="388.10000000000014" y="850.0" />
+                  <point x="722.385483870968" y="850.0" />
+                  <point x="-70.79999999999995" y="57.5" />
+                </edge>
+                <edge source="com.groupFour.Wraps.GoFishPlayer" target="com.groupFour.Hand">
+                  <point x="-32.5" y="-35.0" />
+                  <point x="323.10000000000014" y="870.0" />
+                  <point x="295.0" y="870.0" />
+                  <point x="-54.0" y="46.5" />
+                </edge>
+                <edge source="com.groupFour.Hand" target="com.groupFour.Card">
+                  <point x="47.25" y="-46.5" />
+                  <point x="396.25" y="595.0" />
+                  <point x="323.91747311828" y="595.0" />
+                  <point x="68.625" y="101.5" />
+                </edge>
+                <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Wraps.Spanish21Player">
+                  <point x="23.375" y="-101.5" />
+                  <point x="772.1624999999999" y="1175.0" />
+                  <point x="920.4322580645162" y="1175.0" />
+                  <point x="0.0" y="79.5" />
+                </edge>
+                <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Deck">
+                  <point x="-70.125" y="-101.5" />
+                  <point x="678.6624999999999" y="1145.0" />
+                  <point x="180.83333333333326" y="1145.0" />
+                  <point x="72.33333333333331" y="90.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0592348896569888" x="1317.349682730245" y="960.488369708009" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -65,8 +339,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/GoFish.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="165">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,25 +349,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/GreaterThanThree.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Card.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="420">
+              <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/Spanish21.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -178,7 +455,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Mediator.java" />
         <option value="$PROJECT_DIR$/src/main/java/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingPlayer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Console.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Dice.java" />
@@ -198,6 +474,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Card.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Hand.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Deck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java" />
       </list>
     </option>
   </component>
@@ -209,9 +486,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-1057" />
-    <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -326,18 +603,18 @@
       <workItem from="1560207034698" duration="3402000" />
       <workItem from="1560210899482" duration="282000" />
       <workItem from="1560271045483" duration="821000" />
-      <workItem from="1560276287846" duration="8263000" />
+      <workItem from="1560276287846" duration="9739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12768000" />
+    <option name="totallyTimeSpent" value="14244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27103302" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27103302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -513,13 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Casino.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -527,321 +797,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Mediator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.groupFour">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.groupFour</OriginalElement>
-          <nodes>
-            <node x="1574.8567307692308" y="708.5">com.groupFour.Console</node>
-            <node x="713.3358974358973" y="298.0">com.groupFour.Wraps.CrapsPlayer</node>
-            <node x="775.0000000000002" y="0.0">com.groupFour.Player</node>
-            <node x="1415.388621794872" y="11.0">com.groupFour.Hand</node>
-            <node x="1009.6692307692307" y="342.5">com.groupFour.Wraps.GoFishPlayer</node>
-            <node x="219.50000000000023" y="11.5">com.groupFour.Interfaces.Game</node>
-            <node x="380.5000000000002" y="11.5">com.groupFour.Interfaces.GamblingGameInterface</node>
-            <node x="1367.8567307692308" y="620.0">com.groupFour.Games.Spanish21</node>
-            <node x="1764.2942307692308" y="298.0">com.groupFour.Wraps.BlackjackPlayer</node>
-            <node x="1255.2942307692306" y="913.0">com.groupFour.Mediator</node>
-            <node x="1159.6692307692308" y="298.0">com.groupFour.Wraps.Spanish21Player</node>
-            <node x="1272.7942307692306" y="1034.0">com.groupFour.Casino</node>
-            <node x="49.891025641025635" y="620.0">com.groupFour.Games.GreaterThanThree</node>
-            <node x="419.8677884615388" y="631.0">com.groupFour.Games.Craps</node>
-            <node x="1164.4192307692308" y="653.0">com.groupFour.Games.GoFish</node>
-            <node x="126.55769230769215" y="320.0">com.groupFour.Dice</node>
-            <node x="477.3358974358973" y="265.0">com.groupFour.Interfaces.GamblingGame</node>
-            <node x="1135.388621794872" y="0.5">com.groupFour.Interfaces.GamblingPlayer</node>
-            <node x="1860.0578525641026" y="620.0">com.groupFour.Games.Blackjack</node>
-            <node x="1475.3567307692308" y="298.0">com.groupFour.Deck</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.groupFour.Games.GreaterThanThree" target="com.groupFour.Player">
-              <point x="0.0" y="-101.5" />
-              <point x="140.89102564102564" y="600.0" />
-              <point x="116.05769230769215" y="600.0" />
-              <point x="116.05769230769215" y="235.0" />
-              <point x="792.7000000000003" y="235.0" />
-              <point x="-70.79999999999995" y="57.5" />
-            </edge>
-            <edge source="com.groupFour.Mediator" target="com.groupFour.Console">
-              <point x="40.20833333333337" y="-35.5" />
-              <point x="1392.002564102564" y="863.0" />
-              <point x="1598.6067307692308" y="863.0" />
-              <point x="-23.75" y="13.0" />
-            </edge>
-            <edge source="com.groupFour.Interfaces.GamblingGame" target="com.groupFour.Interfaces.Game">
-              <point x="-54.0" y="-112.5" />
-              <point x="531.3358974358973" y="215.0" />
-              <point x="337.0000000000002" y="215.0" />
-              <point x="47.0" y="46.0" />
-            </edge>
-            <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Deck">
-              <point x="-22.75" y="-101.5" />
-              <point x="1928.3078525641026" y="520.0" />
-              <point x="1680.3567307692308" y="520.0" />
-              <point x="82.0" y="79.5" />
-            </edge>
-            <edge source="com.groupFour.Interfaces.GamblingGame" target="com.groupFour.Interfaces.GamblingGameInterface">
-              <point x="54.0" y="-112.5" />
-              <point x="639.3358974358973" y="205.0" />
-              <point x="477.0000000000002" y="205.0" />
-              <point x="0.0" y="46.0" />
-            </edge>
-            <edge source="com.groupFour.Wraps.Spanish21Player" target="com.groupFour.Hand">
-              <point x="86.66666666666669" y="-79.5" />
-              <point x="1376.3358974358976" y="235.0" />
-              <point x="1487.888621794872" y="235.0" />
-              <point x="-29.0" y="46.5" />
-            </edge>
-            <edge source="com.groupFour.Wraps.CrapsPlayer" target="com.groupFour.Player">
-              <point x="-86.66666666666674" y="-79.5" />
-              <point x="756.6692307692306" y="245.0" />
-              <point x="828.1000000000001" y="245.0" />
-              <point x="-35.40000000000009" y="57.5" />
-            </edge>
-            <edge source="com.groupFour.Games.Craps" target="com.groupFour.Dice">
-              <point x="-60.66666666666674" y="-90.5" />
-              <point x="450.20112179487205" y="600.0" />
-              <point x="320.05769230769215" y="600.0" />
-              <point x="64.5" y="57.5" />
-            </edge>
-            <edge source="com.groupFour.Mediator" target="com.groupFour.Games.GoFish">
-              <point x="-8.041666666666629" y="-35.5" />
-              <point x="1343.752564102564" y="843.0" />
-              <point x="1296.4192307692308" y="843.0" />
-              <point x="44.0" y="68.5" />
-            </edge>
-            <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Hand">
-              <point x="68.25" y="-101.5" />
-              <point x="2019.3078525641026" y="600.0" />
-              <point x="2154.791826923077" y="600.0" />
-              <point x="2154.791826923077" y="135.0" />
-              <point x="1603.888621794872" y="135.0" />
-              <point x="86.99999999999994" y="46.5" />
-            </edge>
-            <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Deck">
-              <point x="66.0" y="-68.5" />
-              <point x="1318.4192307692308" y="570.0" />
-              <point x="1516.3567307692308" y="570.0" />
-              <point x="-82.0" y="79.5" />
-            </edge>
-            <edge source="com.groupFour.Wraps.BlackjackPlayer" target="com.groupFour.Interfaces.GamblingPlayer">
-              <point x="0.0" y="-79.5" />
-              <point x="1894.2942307692308" y="165.0" />
-              <point x="1352.0552884615388" y="165.0" />
-              <point x="86.66666666666663" y="57.0" />
-            </edge>
-            <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Interfaces.GamblingGame">
-              <point x="-68.25" y="-101.5" />
-              <point x="1882.8078525641026" y="530.0" />
-              <point x="657.3358974358973" y="530.0" />
-              <point x="72.0" y="112.5" />
-            </edge>
-            <edge source="com.groupFour.Games.Craps" target="com.groupFour.Wraps.CrapsPlayer">
-              <point x="60.66666666666674" y="-90.5" />
-              <point x="571.5344551282055" y="600.0" />
-              <point x="843.3358974358973" y="600.0" />
-              <point x="0.0" y="79.5" />
-            </edge>
-            <edge source="com.groupFour.Wraps.Spanish21Player" target="com.groupFour.Interfaces.GamblingPlayer">
-              <point x="0.0" y="-79.5" />
-              <point x="1289.6692307692308" y="205.0" />
-              <point x="1265.388621794872" y="205.0" />
-              <point x="0.0" y="57.0" />
-            </edge>
-            <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Interfaces.GamblingGame">
-              <point x="-70.125" y="-101.5" />
-              <point x="1391.2317307692308" y="550.0" />
-              <point x="585.3358974358973" y="550.0" />
-              <point x="0.0" y="112.5" />
-            </edge>
-            <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Wraps.BlackjackPlayer">
-              <point x="22.75" y="-101.5" />
-              <point x="1973.8078525641026" y="510.0" />
-              <point x="1894.2942307692308" y="510.0" />
-              <point x="0.0" y="79.5" />
-            </edge>
-            <edge source="com.groupFour.Games.GreaterThanThree" target="com.groupFour.Interfaces.Game">
-              <point x="-60.66666666666674" y="-101.5" />
-              <point x="80.22435897435889" y="600.0" />
-              <point x="0.0" y="600.0" />
-              <point x="0.0" y="225.0" />
-              <point x="243.00000000000023" y="225.0" />
-              <point x="-47.0" y="46.0" />
-            </edge>
-            <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Wraps.GoFishPlayer">
-              <point x="-22.0" y="-68.5" />
-              <point x="1230.4192307692308" y="580.0" />
-              <point x="1074.6692307692306" y="580.0" />
-              <point x="0.0" y="35.0" />
-            </edge>
-            <edge source="com.groupFour.Mediator" target="com.groupFour.Games.Spanish21">
-              <point x="24.125" y="-35.5" />
-              <point x="1375.9192307692306" y="853.0" />
-              <point x="1508.1067307692308" y="853.0" />
-              <point x="46.75" y="101.5" />
-            </edge>
-            <edge source="com.groupFour.Casino" target="com.groupFour.Mediator">
-              <point x="-39.5" y="-24.0" />
-              <point x="1312.2942307692306" y="1009.0" />
-              <point x="1303.5442307692306" y="1009.0" />
-              <point x="-48.25" y="35.5" />
-            </edge>
-            <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Hand">
-              <point x="70.125" y="-101.5" />
-              <point x="1531.4817307692308" y="590.0" />
-              <point x="2084.9608974358976" y="590.0" />
-              <point x="2084.9608974358976" y="145.0" />
-              <point x="1574.888621794872" y="145.0" />
-              <point x="57.99999999999994" y="46.5" />
-            </edge>
-            <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Interfaces.Game">
-              <point x="-66.0" y="-68.5" />
-              <point x="1186.4192307692308" y="590.0" />
-              <point x="454.39102564102564" y="590.0" />
-              <point x="454.39102564102564" y="225.0" />
-              <point x="290.0000000000002" y="225.0" />
-              <point x="0.0" y="46.0" />
-            </edge>
-            <edge source="com.groupFour.Wraps.Spanish21Player" target="com.groupFour.Player">
-              <point x="-86.66666666666669" y="-79.5" />
-              <point x="1203.002564102564" y="185.0" />
-              <point x="898.9000000000003" y="185.0" />
-              <point x="35.40000000000009" y="57.5" />
-            </edge>
-            <edge source="com.groupFour.Mediator" target="com.groupFour.Games.GreaterThanThree">
-              <point x="-88.45833333333326" y="-35.5" />
-              <point x="1263.3358974358973" y="893.0" />
-              <point x="95.39102564102564" y="893.0" />
-              <point x="-45.5" y="101.5" />
-            </edge>
-            <edge source="com.groupFour.Games.GreaterThanThree" target="com.groupFour.Dice">
-              <point x="60.666666666666515" y="-101.5" />
-              <point x="201.55769230769215" y="600.0" />
-              <point x="191.05769230769215" y="600.0" />
-              <point x="-64.5" y="57.5" />
-            </edge>
-            <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Hand">
-              <point x="22.0" y="-68.5" />
-              <point x="1274.4192307692308" y="560.0" />
-              <point x="1443.4793269230772" y="560.0" />
-              <point x="1443.4793269230772" y="245.0" />
-              <point x="1516.888621794872" y="245.0" />
-              <point x="0.0" y="46.5" />
-            </edge>
-            <edge source="com.groupFour.Mediator" target="com.groupFour.Games.Blackjack">
-              <point x="88.45833333333337" y="-35.5" />
-              <point x="1440.252564102564" y="893.0" />
-              <point x="1996.5578525641026" y="893.0" />
-              <point x="45.5" y="101.5" />
-            </edge>
-            <edge source="com.groupFour.Wraps.CrapsPlayer" target="com.groupFour.Hand">
-              <point x="86.66666666666674" y="-79.5" />
-              <point x="930.0025641025641" y="215.0" />
-              <point x="1429.888621794872" y="215.0" />
-              <point x="-87.0" y="46.5" />
-            </edge>
-            <edge source="com.groupFour.Games.Craps" target="com.groupFour.Interfaces.GamblingGame">
-              <point x="0.0" y="-90.5" />
-              <point x="510.8677884615388" y="600.0" />
-              <point x="513.3358974358973" y="600.0" />
-              <point x="-72.0" y="112.5" />
-            </edge>
-            <edge source="com.groupFour.Mediator" target="com.groupFour.Games.Craps">
-              <point x="-40.20833333333326" y="-35.5" />
-              <point x="1311.5858974358973" y="863.0" />
-              <point x="556.3677884615388" y="863.0" />
-              <point x="45.5" y="90.5" />
-            </edge>
-            <edge source="com.groupFour.Wraps.CrapsPlayer" target="com.groupFour.Interfaces.GamblingPlayer">
-              <point x="0.0" y="-79.5" />
-              <point x="843.3358974358973" y="205.0" />
-              <point x="1178.7219551282055" y="205.0" />
-              <point x="-86.66666666666663" y="57.0" />
-            </edge>
-            <edge source="com.groupFour.Wraps.BlackjackPlayer" target="com.groupFour.Player">
-              <point x="-86.66666666666674" y="-79.5" />
-              <point x="1807.627564102564" y="175.0" />
-              <point x="934.3000000000002" y="175.0" />
-              <point x="70.79999999999995" y="57.5" />
-            </edge>
-            <edge source="com.groupFour.Wraps.BlackjackPlayer" target="com.groupFour.Hand">
-              <point x="86.66666666666663" y="-79.5" />
-              <point x="1980.9608974358976" y="155.0" />
-              <point x="1545.888621794872" y="155.0" />
-              <point x="29.0" y="46.5" />
-            </edge>
-            <edge source="com.groupFour.Wraps.GoFishPlayer" target="com.groupFour.Hand">
-              <point x="32.5" y="-35.0" />
-              <point x="1107.1692307692306" y="225.0" />
-              <point x="1458.888621794872" y="225.0" />
-              <point x="-58.0" y="46.5" />
-            </edge>
-            <edge source="com.groupFour.Wraps.GoFishPlayer" target="com.groupFour.Player">
-              <point x="-32.5" y="-35.0" />
-              <point x="1042.1692307692306" y="195.0" />
-              <point x="863.5000000000002" y="195.0" />
-              <point x="0.0" y="57.5" />
-            </edge>
-            <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Wraps.Spanish21Player">
-              <point x="-23.375" y="-101.5" />
-              <point x="1437.9817307692308" y="540.0" />
-              <point x="1289.6692307692308" y="540.0" />
-              <point x="0.0" y="79.5" />
-            </edge>
-            <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Deck">
-              <point x="23.375" y="-101.5" />
-              <point x="1484.7317307692308" y="580.0" />
-              <point x="1598.3567307692308" y="580.0" />
-              <point x="0.0" y="79.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.8606403013182674" x="245.81400437636768" y="268.8621444201313" />
-          <SelectedNodes>
-            <node>com.groupFour.Console</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Card.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
-          <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,16 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/GoFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -944,8 +893,347 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Deck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="450">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/GamblingGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Interfaces/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/groupFour/Games/GoFish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.groupFour">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.groupFour</OriginalElement>
+          <nodes>
+            <node x="62.25" y="1333.5">com.groupFour.Console</node>
+            <node x="1070.4322580645162" y="923.0">com.groupFour.Wraps.CrapsPlayer</node>
+            <node x="704.6854838709679" y="615.0">com.groupFour.Player</node>
+            <node x="165.54247311828" y="99.0">com.groupFour.Suit</node>
+            <node x="270.54247311828" y="0.0">com.groupFour.Rank</node>
+            <node x="254.5" y="626.0">com.groupFour.Hand</node>
+            <node x="290.60000000000014" y="967.5">com.groupFour.Wraps.GoFishPlayer</node>
+            <node x="1485.8896505376347" y="615.0">com.groupFour.Interfaces.Game</node>
+            <node x="1680.8896505376347" y="626.5">com.groupFour.Interfaces.GamblingGameInterface</node>
+            <node x="655.2874999999999" y="1245.0">com.groupFour.Games.Spanish21</node>
+            <node x="510.43225806451613" y="923.0">com.groupFour.Wraps.BlackjackPlayer</node>
+            <node x="549.4124999999999" y="1538.0">com.groupFour.Mediator</node>
+            <node x="163.79247311828" y="362.0">com.groupFour.Card</node>
+            <node x="566.9124999999999" y="1659.0">com.groupFour.Casino</node>
+            <node x="790.4322580645162" y="923.0">com.groupFour.Wraps.Spanish21Player</node>
+            <node x="1819.8758064516135" y="1245.0">com.groupFour.Games.GreaterThanThree</node>
+            <node x="1424.856989247312" y="1256.0">com.groupFour.Games.Craps</node>
+            <node x="1674.3758064516132" y="945.0">com.groupFour.Dice</node>
+            <node x="177.25" y="1278.0">com.groupFour.Games.GoFish</node>
+            <node x="1437.10497311828" y="890.0">com.groupFour.Interfaces.GamblingGame</node>
+            <node x="901.6854838709679" y="615.5">com.groupFour.Interfaces.GamblingPlayer</node>
+            <node x="0.0" y="912.0">com.groupFour.Deck</node>
+            <node x="415.84999999999997" y="1245.0">com.groupFour.Games.Blackjack</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.groupFour.Card" target="com.groupFour.Suit">
+              <point x="-22.875" y="-101.5" />
+              <point x="232.41747311828" y="337.0" />
+              <point x="229.29247311828" y="337.0" />
+              <point x="21.25" y="57.0" />
+            </edge>
+            <edge source="com.groupFour.Games.GreaterThanThree" target="com.groupFour.Player">
+              <point x="0.0" y="-101.5" />
+              <point x="1910.8758064516135" y="1225.0" />
+              <point x="1942.8758064516135" y="1225.0" />
+              <point x="1942.8758064516135" y="760.0" />
+              <point x="863.9854838709679" y="760.0" />
+              <point x="70.79999999999995" y="57.5" />
+            </edge>
+            <edge source="com.groupFour.Mediator" target="com.groupFour.Console">
+              <point x="-72.375" y="-35.5" />
+              <point x="573.5374999999999" y="1508.0" />
+              <point x="133.5" y="1508.0" />
+              <point x="23.75" y="13.0" />
+            </edge>
+            <edge source="com.groupFour.Deck" target="com.groupFour.Card">
+              <point x="-54.25" y="-90.5" />
+              <point x="54.25" y="870.0" />
+              <point x="103.0" y="870.0" />
+              <point x="103.0" y="585.0" />
+              <point x="186.66747311828" y="585.0" />
+              <point x="-68.625" y="101.5" />
+            </edge>
+            <edge source="com.groupFour.Interfaces.GamblingGame" target="com.groupFour.Interfaces.Game">
+              <point x="-54.0" y="-112.5" />
+              <point x="1491.10497311828" y="870.0" />
+              <point x="1573.3896505376347" y="870.0" />
+              <point x="0.0" y="57.5" />
+            </edge>
+            <edge source="com.groupFour.Interfaces.GamblingGame" target="com.groupFour.Interfaces.GamblingGameInterface">
+              <point x="54.0" y="-112.5" />
+              <point x="1599.10497311828" y="870.0" />
+              <point x="1777.3896505376347" y="870.0" />
+              <point x="0.0" y="46.0" />
+            </edge>
+            <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Deck">
+              <point x="-68.25" y="-101.5" />
+              <point x="438.59999999999997" y="1165.0" />
+              <point x="108.5" y="1165.0" />
+              <point x="-1.4210854715202004E-14" y="90.5" />
+            </edge>
+            <edge source="com.groupFour.Wraps.Spanish21Player" target="com.groupFour.Hand">
+              <point x="-86.66666666666674" y="-79.5" />
+              <point x="833.7655913978494" y="810.0" />
+              <point x="403.0" y="810.0" />
+              <point x="54.0" y="46.5" />
+            </edge>
+            <edge source="com.groupFour.Games.Craps" target="com.groupFour.Dice">
+              <point x="60.66666666666674" y="-90.5" />
+              <point x="1576.5236559139787" y="1225.0" />
+              <point x="1738.8758064516132" y="1225.0" />
+              <point x="-64.5" y="57.5" />
+            </edge>
+            <edge source="com.groupFour.Wraps.CrapsPlayer" target="com.groupFour.Player">
+              <point x="0.0" y="-79.5" />
+              <point x="1200.4322580645162" y="780.0" />
+              <point x="828.585483870968" y="780.0" />
+              <point x="35.40000000000009" y="57.5" />
+            </edge>
+            <edge source="com.groupFour.Mediator" target="com.groupFour.Games.GoFish">
+              <point x="-40.20833333333326" y="-35.5" />
+              <point x="605.7041666666667" y="1488.0" />
+              <point x="309.25" y="1488.0" />
+              <point x="44.0" y="68.5" />
+            </edge>
+            <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Hand">
+              <point x="-22.75" y="-101.5" />
+              <point x="484.09999999999997" y="1155.0" />
+              <point x="431.09999999999997" y="1155.0" />
+              <point x="431.09999999999997" y="840.0" />
+              <point x="322.0" y="840.0" />
+              <point x="-27.0" y="46.5" />
+            </edge>
+            <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Deck">
+              <point x="-66.0" y="-68.5" />
+              <point x="199.25" y="1225.0" />
+              <point x="36.16666666666663" y="1225.0" />
+              <point x="-72.33333333333333" y="90.5" />
+            </edge>
+            <edge source="com.groupFour.Wraps.BlackjackPlayer" target="com.groupFour.Interfaces.GamblingPlayer">
+              <point x="86.66666666666663" y="-79.5" />
+              <point x="727.0989247311827" y="870.0" />
+              <point x="945.0188172043013" y="870.0" />
+              <point x="-86.66666666666663" y="57.0" />
+            </edge>
+            <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Interfaces.GamblingGame">
+              <point x="68.25" y="-101.5" />
+              <point x="575.0999999999999" y="1195.0" />
+              <point x="1473.10497311828" y="1195.0" />
+              <point x="-72.0" y="112.5" />
+            </edge>
+            <edge source="com.groupFour.Games.Craps" target="com.groupFour.Wraps.CrapsPlayer">
+              <point x="-60.66666666666674" y="-90.5" />
+              <point x="1455.1903225806452" y="1175.0" />
+              <point x="1200.4322580645162" y="1175.0" />
+              <point x="0.0" y="79.5" />
+            </edge>
+            <edge source="com.groupFour.Wraps.Spanish21Player" target="com.groupFour.Interfaces.GamblingPlayer">
+              <point x="86.66666666666663" y="-79.5" />
+              <point x="1007.0989247311827" y="870.0" />
+              <point x="1031.6854838709678" y="870.0" />
+              <point x="0.0" y="57.0" />
+            </edge>
+            <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Interfaces.GamblingGame">
+              <point x="70.125" y="-101.5" />
+              <point x="818.9124999999999" y="1205.0" />
+              <point x="1545.10497311828" y="1205.0" />
+              <point x="0.0" y="112.5" />
+            </edge>
+            <edge source="com.groupFour.Games.Blackjack" target="com.groupFour.Wraps.BlackjackPlayer">
+              <point x="22.75" y="-101.5" />
+              <point x="529.5999999999999" y="1175.0" />
+              <point x="640.4322580645162" y="1175.0" />
+              <point x="0.0" y="79.5" />
+            </edge>
+            <edge source="com.groupFour.Games.GreaterThanThree" target="com.groupFour.Interfaces.Game">
+              <point x="60.666666666666515" y="-101.5" />
+              <point x="1971.54247311828" y="1225.0" />
+              <point x="2082.8896505376347" y="1225.0" />
+              <point x="2082.8896505376347" y="750.0" />
+              <point x="1631.7229838709677" y="750.0" />
+              <point x="58.33333333333326" y="57.5" />
+            </edge>
+            <edge source="com.groupFour.Mediator" target="com.groupFour.Games.Spanish21">
+              <point x="24.125" y="-35.5" />
+              <point x="670.0374999999999" y="1478.0" />
+              <point x="795.5374999999999" y="1478.0" />
+              <point x="46.75" y="101.5" />
+            </edge>
+            <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Wraps.GoFishPlayer">
+              <point x="22.0" y="-68.5" />
+              <point x="287.25" y="1175.0" />
+              <point x="355.60000000000014" y="1175.0" />
+              <point x="0.0" y="35.0" />
+            </edge>
+            <edge source="com.groupFour.Card" target="com.groupFour.Rank">
+              <point x="68.625" y="-101.5" />
+              <point x="17.75" y="156.0" />
+            </edge>
+            <edge source="com.groupFour.Casino" target="com.groupFour.Mediator">
+              <point x="39.5" y="-24.0" />
+              <point x="685.4124999999999" y="1634.0" />
+              <point x="694.1624999999999" y="1634.0" />
+              <point x="48.25" y="35.5" />
+            </edge>
+            <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Hand">
+              <point x="-23.375" y="-101.5" />
+              <point x="725.4124999999999" y="1135.0" />
+              <point x="499.93225806451613" y="1135.0" />
+              <point x="499.93225806451613" y="830.0" />
+              <point x="349.0" y="830.0" />
+              <point x="0.0" y="46.5" />
+            </edge>
+            <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Interfaces.Game">
+              <point x="66.0" y="-68.5" />
+              <point x="331.25" y="1185.0" />
+              <point x="1340.9322580645162" y="1185.0" />
+              <point x="1340.9322580645162" y="860.0" />
+              <point x="1515.0563172043012" y="860.0" />
+              <point x="-58.33333333333326" y="57.5" />
+            </edge>
+            <edge source="com.groupFour.Wraps.Spanish21Player" target="com.groupFour.Player">
+              <point x="0.0" y="-79.5" />
+              <point x="920.4322580645162" y="800.0" />
+              <point x="793.1854838709679" y="800.0" />
+              <point x="0.0" y="57.5" />
+            </edge>
+            <edge source="com.groupFour.Mediator" target="com.groupFour.Games.GreaterThanThree">
+              <point x="72.375" y="-35.5" />
+              <point x="718.2874999999999" y="1508.0" />
+              <point x="1865.3758064516135" y="1508.0" />
+              <point x="-45.5" y="101.5" />
+            </edge>
+            <edge source="com.groupFour.Games.GreaterThanThree" target="com.groupFour.Dice">
+              <point x="-60.66666666666674" y="-101.5" />
+              <point x="1850.2091397849467" y="1225.0" />
+              <point x="1867.8758064516132" y="1225.0" />
+              <point x="64.5" y="57.5" />
+            </edge>
+            <edge source="com.groupFour.Games.GoFish" target="com.groupFour.Hand">
+              <point x="-22.0" y="-68.5" />
+              <point x="243.25" y="1225.0" />
+              <point x="227.5" y="1225.0" />
+              <point x="227.5" y="870.0" />
+              <point x="268.0" y="870.0" />
+              <point x="-81.0" y="46.5" />
+            </edge>
+            <edge source="com.groupFour.Mediator" target="com.groupFour.Games.Blackjack">
+              <point x="-24.125" y="-35.5" />
+              <point x="621.7874999999999" y="1478.0" />
+              <point x="461.34999999999997" y="1478.0" />
+              <point x="-45.5" y="101.5" />
+            </edge>
+            <edge source="com.groupFour.Wraps.CrapsPlayer" target="com.groupFour.Hand">
+              <point x="-86.66666666666674" y="-79.5" />
+              <point x="1113.7655913978494" y="790.0" />
+              <point x="430.0" y="790.0" />
+              <point x="81.0" y="46.5" />
+            </edge>
+            <edge source="com.groupFour.Mediator" target="com.groupFour.Games.Craps">
+              <point x="40.20833333333326" y="-35.5" />
+              <point x="686.1208333333332" y="1488.0" />
+              <point x="1470.356989247312" y="1488.0" />
+              <point x="-45.5" y="90.5" />
+            </edge>
+            <edge source="com.groupFour.Games.Craps" target="com.groupFour.Interfaces.GamblingGame">
+              <point x="0.0" y="-90.5" />
+              <point x="1515.856989247312" y="1215.0" />
+              <point x="1617.10497311828" y="1215.0" />
+              <point x="72.0" y="112.5" />
+            </edge>
+            <edge source="com.groupFour.Wraps.CrapsPlayer" target="com.groupFour.Interfaces.GamblingPlayer">
+              <point x="86.66666666666674" y="-79.5" />
+              <point x="1287.098924731183" y="770.0" />
+              <point x="1118.3521505376345" y="770.0" />
+              <point x="86.66666666666663" y="57.0" />
+            </edge>
+            <edge source="com.groupFour.Wraps.BlackjackPlayer" target="com.groupFour.Player">
+              <point x="0.0" y="-79.5" />
+              <point x="640.4322580645162" y="860.0" />
+              <point x="757.7854838709678" y="860.0" />
+              <point x="-35.40000000000009" y="57.5" />
+            </edge>
+            <edge source="com.groupFour.Wraps.BlackjackPlayer" target="com.groupFour.Hand">
+              <point x="-86.66666666666669" y="-79.5" />
+              <point x="553.7655913978494" y="820.0" />
+              <point x="376.0" y="820.0" />
+              <point x="27.0" y="46.5" />
+            </edge>
+            <edge source="com.groupFour.Wraps.GoFishPlayer" target="com.groupFour.Player">
+              <point x="32.5" y="-35.0" />
+              <point x="388.10000000000014" y="850.0" />
+              <point x="722.385483870968" y="850.0" />
+              <point x="-70.79999999999995" y="57.5" />
+            </edge>
+            <edge source="com.groupFour.Wraps.GoFishPlayer" target="com.groupFour.Hand">
+              <point x="-32.5" y="-35.0" />
+              <point x="323.10000000000014" y="870.0" />
+              <point x="295.0" y="870.0" />
+              <point x="-54.0" y="46.5" />
+            </edge>
+            <edge source="com.groupFour.Hand" target="com.groupFour.Card">
+              <point x="47.25" y="-46.5" />
+              <point x="396.25" y="595.0" />
+              <point x="323.91747311828" y="595.0" />
+              <point x="68.625" y="101.5" />
+            </edge>
+            <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Wraps.Spanish21Player">
+              <point x="23.375" y="-101.5" />
+              <point x="772.1624999999999" y="1175.0" />
+              <point x="920.4322580645162" y="1175.0" />
+              <point x="0.0" y="79.5" />
+            </edge>
+            <edge source="com.groupFour.Games.Spanish21" target="com.groupFour.Deck">
+              <point x="-70.125" y="-101.5" />
+              <point x="678.6624999999999" y="1145.0" />
+              <point x="180.83333333333326" y="1145.0" />
+              <point x="72.33333333333331" y="90.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0592348896569888" x="1317.349682730245" y="960.488369708009" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
