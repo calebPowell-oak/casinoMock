@@ -4,8 +4,8 @@ import java.util.ArrayList;
 
 public class Hand {
 
-    private ArrayList<Integer> hand;
+    private ArrayList<Card> hand;
 
-    public void addCard(Integer cardNo){}
-    public void removeCard(Integer index){}
+    public void addCard(Card card){}
+    public void removeCard(Card card){}
 }

@@ -7,7 +7,6 @@ import com.groupFour.Wraps.BlackjackPlayer;
 
 public class Blackjack extends GamblingGame {
 
-    private Hand hand;
     private Hand dealerHand;
     private Deck deck;
     private BlackjackPlayer player;

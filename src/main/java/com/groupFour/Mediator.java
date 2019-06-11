@@ -3,10 +3,35 @@ package com.groupFour;
 import com.groupFour.Games.*;
 
 public class Mediator {
-    Blackjack g1 = new Blackjack();
-    Craps g2 = new Craps();
-    GoFish g3 = new GoFish();
-    GreaterThanThree g4 = new GreaterThanThree();
-    Spanish21 g5 = new Spanish21();
-    Console inAndOut = new Console();
+    Console in = new Console();
+
+    public void startGame(Integer choice){
+        switch(choice){
+            case 0:{
+                Blackjack game = new Blackjack();
+                game.setup();
+                break;
+            }
+            case 1:{
+                Craps game = new Craps();
+                game.setup();
+                break;
+            }
+            case 2:{
+                GoFish game = new GoFish();
+                game.setup();
+                break;
+            }
+            case 3:{
+                GreaterThanThree game = new GreaterThanThree();
+                game.setup();
+                break;
+            }
+            default:{
+                Spanish21 game = new Spanish21();
+                game.setup();
+                break;
+            }
+        }
+    }
 }

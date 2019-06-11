@@ -3,14 +3,13 @@ package com.groupFour.Games;
 import com.groupFour.Deck;
 import com.groupFour.Hand;
 import com.groupFour.Interfaces.Game;
-import com.groupFour.Player;
+import com.groupFour.Wraps.GoFishPlayer;
 
 public class GoFish extends Game {
 
-    private Hand hand;
     private Hand opponentHand;
     private Deck deck;
-    private Player player;
+    private GoFishPlayer player;
 
     public void takeTurn() {
 

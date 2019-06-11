@@ -3,12 +3,10 @@ package com.groupFour.Games;
 import com.groupFour.Deck;
 import com.groupFour.Hand;
 import com.groupFour.Interfaces.GamblingGame;
-import com.groupFour.Wraps.BlackjackPlayer;
 import com.groupFour.Wraps.Spanish21Player;
 
 public class Spanish21 extends GamblingGame {
 
-    private Hand hand;
     private Hand dealerHand;
     private Deck deck;
     private Spanish21Player player;
